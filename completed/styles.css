@@ -1,7 +1,7 @@
 body {
   font: "Roboto", sans-serif, 1em;
   line-height: 2em;
-  background: url("../images/bg.gif") #FFF repeat-x; }
+  background: url("images/bg.gif") #FFF repeat-x; }
 
 main {
   width: 940px;
@@ -11,7 +11,7 @@ main {
 figure {
   width: 400px;
   height: 190px;
-  background: url("../images/logo.png") no-repeat 0 50px;
+  background: url("images/logo.png") no-repeat 0 50px;
     background-size: 100%;
   float: left; }
 
@@ -125,12 +125,12 @@ footer {
     text-indent: -9999px; }
 
 .social-media div.one {
-  background: url("../images/social-media.png") 0 0; }
+  background: url("images/social-media.png") 0 0; }
 .social-media div.two {
-  background: url("../images/social-media.png") -38px 0; }
+  background: url("images/social-media.png") -38px 0; }
 .social-media div.three {
-  background: url("../images/social-media.png") -76px 0; }
+  background: url("images/social-media.png") -76px 0; }
 .social-media div.four {
-  background: url("../images/social-media.png") -114px 0; }
+  background: url("images/social-media.png") -114px 0; }
 
 /*# sourceMappingURL=styles.css.map */
